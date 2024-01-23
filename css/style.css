@@ -1,0 +1,13 @@
+*{
+    margin-top: 0;
+    padding-top: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+}
+
+#slide1,#slide2,#slide3,#slide4{
+    background-repeat: no-repeat;
+}
